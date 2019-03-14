@@ -1,5 +1,5 @@
 # node-rest-mysql
-## 내가 수정
+
 This is a boilerplate for using Node.js with Express to host a RESTful API for a MySQL/MariaDB Database.
 
 Supports Collection and Specific Item requests over GET, POST, PUT, DELETE (PATCH not currently implemented)
